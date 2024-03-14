@@ -1,0 +1,50 @@
+.title
+{
+    text-align: center;
+}
+.email_address
+{
+   width: 300px;
+   height: 30px;
+   font-size: 20px;
+   border-radius: 100px;
+}
+.password
+{
+    width: 300px;
+   height: 30px;
+   font-size: 20px;
+   border-radius: 100px;
+}
+.login
+{
+    padding: 8px 127px;
+    border-radius: 16px; 
+    background-color: rgb(44, 120, 182);
+    color: white;
+    font-size: 20px;
+    border-radius: 100px;
+}
+.login_with_google
+{
+    padding: 8px 60px;
+    border-radius: 16px; 
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border-radius: 100px;
+}
+.login_with_facebook
+{
+    padding: 8px 50px;
+    border-radius: 16px; 
+    background-color: rgb(44, 120, 182);
+    color: white;
+    font-size: 20px;
+    border-radius: 100px;
+}
+body
+{
+    max-width: fit-content;
+    margin: auto;
+}
